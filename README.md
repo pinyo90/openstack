@@ -1,4 +1,4 @@
 openstack
 =========
 
-instalasi openstack havana simg;e node
+instalasi openstack havana single node
